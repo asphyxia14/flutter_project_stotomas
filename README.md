@@ -1,5 +1,3 @@
-# Introduction
+# CCS2801
 
-## CCS2801
-
-**This is a *repository***
+**Matthew Cedric Sto. Tomas** *49*
